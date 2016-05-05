@@ -6,10 +6,10 @@
     "revision": "cm-13.0"
   },
   {
-    "remote": "github",
+    "remote": "BlissRoms-Devices",
     "repository": "transi/android_device_amazon_omap4-common",
     "target_path": "device/amazon/omap4-common",
-    "revision": "cm-13.0"
+    "revision": "mm6.0"
   },
   {
     "remote": "BlissRoms-Kernels",
@@ -24,6 +24,3 @@
     "revision": "cm-13.0"
   }
 ]
-
-
-
