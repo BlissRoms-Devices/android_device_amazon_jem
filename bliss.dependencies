@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "HashBang173/android_device_amazon_omap4-common",
+    "repository": "monster1612/android_device_amazon_omap4-common-1",
     "target_path": "device/amazon/omap4-common",
-    "revision": "cm-13.0"
+    "revision": "patch-1"
   },
   {
     "remote": "BlissRoms-Kernels",
