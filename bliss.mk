@@ -17,7 +17,7 @@ $(call inherit-product, vendor/bliss/config/common_full_tablet_wifionly.mk)
 
 # Inherit device configuration for bowser
 $(call inherit-product, device/amazon/jem/full_jem.mk)
-$(call inherit-product, device/amazon/bowser-common/cm.mk)
+$(call inherit-product, device/amazon/bowser-common/bliss.mk)
 
 #TARGET_SCREEN_WIDTH := 1920
 TARGET_SCREEN_WIDTH := 480
